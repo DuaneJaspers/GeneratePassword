@@ -4,6 +4,8 @@ This is just a small python3 script that generates passwords of a specified leng
 
 ### How to use
 
+change to constants in the GeneratePassword.py to your desire and just run
+
 `
 python GeneratePassword.py [passwordlength]
 `
